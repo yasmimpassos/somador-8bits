@@ -21,7 +21,7 @@ Após fazer a tabela verdade, tentei descobrir as relações entre `A` e `B` com
 
 Ficando dessa forma o circuito do meio somador:
 
-![Meio Somador](/assest/meio_somador.png)
+![Meio Somador](/assets/meio_somador.png)
 
 ---
 
@@ -52,7 +52,7 @@ C_out2 = C_out1 OR (S_1 AND C_in)
 
 Com isso, o circuito ficou assim:
 
-![Somador Completo](/assest/somador_completo_1bit.png)
+![Somador Completo](/assets/somador_completo_1bit.png)
 
 ---
 
@@ -64,7 +64,7 @@ Depois de analisar mais a fundo, percebi que o somador completo era **basicament
 
 Ficando dessa forma:
 
-![Somador Completo usando meio somador](/assest/somador_completo_1bit_meio_somador.png)
+![Somador Completo usando meio somador](/assets/somador_completo_1bit_meio_somador.png)
 
 ---
 
