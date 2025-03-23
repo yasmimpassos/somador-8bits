@@ -1,5 +1,6 @@
 # Somador Completo de 4 Bits
-![Explicação em video](/assets/explicação.mp4)
+
+<a href="https://drive.google.com/file/d/1UGkB1MRdwYEfMrm5Y5m-KsvRUUVJxeiY/view?usp=sharing" target="_blank">🔗 Explicação em video</a>
 
 Comecei primeiro desenvolvendo um **meio somador de 1 bit**, para depois fazer um **somador completo de 1 bit**, e por fim construir um **somador de 4 bits completo**.
 
